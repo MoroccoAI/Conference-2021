@@ -7,7 +7,7 @@
 ### Natural language Processing For Moroccan Darija
 
 ## Description
-The workshop will be divided into two parts: a tutorial where attendees will learn about Natural Language Processing (NLP) for a low resource language, and a practice session where attendees will get to analyze different Moroccan Darija datasets and discuss their findings.
+The workshop will be divided into two parts: a tutorial where attendees will learn about Natural Language Processing (NLP) for a low resource language where attendees can analyze different Moroccan Darija datasets.
 
 NLP is a field that is in high demand, and where research progresses actively and quickly. Whereas language technology for languages like English and French is highly developed, low-resource languages — like most African indigenous languages — have been marginalized. There are many opportunities to create new tools for languages with a few resources. In this workshop, we take the example of Moroccan Darija, Morocco’s national vernacular. We will present the latest tools, such as transformer-based models, to deal with Moroccan darija, we will also practice different NLP tasks to different Moroccan darija Datasets.
 
