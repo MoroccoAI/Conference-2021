@@ -16,7 +16,7 @@ The participants will first learn basic NLP tools to analyze language. In the tu
 
 * 4:00-4:05, 		Introduction
 * 4:05-4:35,		Overview of Darija NLP 
-* 4:35-5:15, 		Lab1: Dialect Identification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/10VvWzR4VBpr8byUJ_i4cJEKBPBV4NDlG/view?usp=sharing)
+* 4:35-5:15, 		Lab1: Dialect Identification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KqIkTTupGtUiKDcZZ8hp5b0zwAY8vpm8?usp=sharing)
 * 5:15-5:30, 		Break
 * 5:30-6:10, 		Lab2: Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mR7KhtZr6lnkCMNANQVRr8CuixdnMxKg?usp=sharing)
 * 6:10-6:50,  	Lab3: POS tagging [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IzZ141OBj3yHFnADFQTVHc6NHoVAGSZb?usp=sharing)
